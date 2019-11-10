@@ -24,18 +24,18 @@ This project is an opportunity to work on and explore a topic area of interest, 
   The banking sector is increasingly getting related to our daily life aspects: shopping, online purchasing, saving etc. The data available from that usage identifies specific types of consumers and business spending behaviors that can be explored to show customer spending patterns, predictions and fraud.
 
 - [X] What other examples of data driven projects have we found related to this domain (share at least 3)?
-   + Credit Card Fraud Detection (Identifying fraudulent credit card transactions).
-   + Classification of credit card transactions.
-   + Predicting Credit Card Balance.
+   + [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud) : The important of identifying fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
+   + [Classification of credit card transactions](https://www.kaggle.com/ruskay7/classifying-credit-card-transactions-using-svm) : This project is about classifying credit card fraudulent/legitimate transactions by re-sampling the data such that we have a balanced dataset.
+   + [Predicting Credit Card Balance](https://www.kaggle.com/suzanaiacob/predicting-credit-card-balance-using-regression) : The goal of this project is to analyze a dataset consisting of information from 400 credit card holders and to comprehend which factors influence the Credit Card Balance of a cardholder and to predict the average Balance of a given individual.
 - [X] What data-driven questions do we hope to answer about this domain (share at least 3)?
 
-* Questions related to our field
+* Questions related to our field :
   + What is the probability of falling in default payment on credit cards?
   + How does the probability of default payment vary by categories of different demographic variables?
   + What are the most important personal features that a bank take into account to concede a credit?
 
 
-* Questions that can be answer with the dataset
+* Questions that can be answer with the dataset :
   + Which are the socio-demographics features that can explain falling in default payment on credits cards?
   + How is the behavior of the historical payments according to the educational level?
   + The fact of having different kinds of loans (personal or housing) show any association with falling in default payment on credits?
@@ -66,7 +66,7 @@ This dataset is about credit card clients in Twain, it contains information abou
   + Which are the socio-demographics features that can explain falling in default payment on credits cards?
 
 #### 2) Credit Approval Data Set
-taken from: UCI Machine Learning Repository.
+Taken from: UCI Machine Learning Repository.
 
 - [X] Where did you download the data (e.g., a web URL)?
    + URL where dataset is from: [Dataset](https://archive.ics.uci.edu/ml/datasets/Credit+Approval)/[Download](https://datahub.io/machine-learning/credit-approval#data)
@@ -84,7 +84,7 @@ This dataset is about credit cards applications. The source is confidential. The
   + What are the most important personal features that a bank take into account to concede a credit?
 
 #### 3) Bank Marketing Data Set
-taken from: UCI Machine Learning Repository
+Taken from: UCI Machine Learning Repository
 
 - [X] Where did you download the data (e.g., a web URL)?
    + URL where dataset is from: [Dataset](http://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
