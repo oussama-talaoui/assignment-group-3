@@ -11,11 +11,11 @@
 
 ## About the project
 
-This projetc is an opportunity to work on and explore a topic area of intrest, and create data science oriented report for communicating our insights. As a team, we had to decide what datasets we want to explore, and how we can present that information while fellowing these steps:
+This project is an opportunity to work on and explore a topic area of interest, and create data science oriented report for communicating our insights. As a team, we had to decide what datasets we want to explore, and how we can present that information while following these steps:
 
 - [X] Describing our domain of interest
 - [ ] Articulating pertinent questions in our chosen domain
-- [ ] Identifing, downloading, and describing at least 3 datasets related to that domain
+- [ ] Identifying, downloading, and describing at least 3 datasets related to that domain
 
 ## Domain of interest
 
