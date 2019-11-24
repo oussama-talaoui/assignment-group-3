@@ -31,9 +31,7 @@ This project is an opportunity to work on and explore a topic area of interest, 
 
 * Questions related to our field :
   + What is the probability of falling in default payment on credit cards?
-  + How does the probability of default payment vary by categories of different demographic variables?
   + What are the most important personal features that a bank take into account to concede a credit?
-
 
 * Questions that can be answer with the dataset :
   + Which are the socio-demographics features that can explain falling in default payment on credits cards?
@@ -102,7 +100,6 @@ This dataset contains information about the clients of a Portuguese bank. It con
 
 - [X] What questions (from above) can we answer using the data in this dataset?
   + The fact of having different kinds of loans (personal or housing) show any association with falling in default payment on credits?
-  + How does the probability of default payment vary by categories of different demographic variables?
 
 ## Data Cleaning
 
